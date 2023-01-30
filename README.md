@@ -7,15 +7,15 @@ https://cloud.mail.ru/public/iENN/BpLueh6Xe
 <hr/>
 <h2 align="center">Oдноканальная СМО с очередью</h2>
 <p align="center">
-  <a href="https://raw.githubusercontent.com/kontr24/OperationsResearch/f4a161fc5df3ce8d111ea95feff4d844dbc696b6/ScreenshotsApplication/TaskOne.png"><img src="https://github.com/kontr24/OperationsResearchSixthLab/blob/8d28dd0ea274e2621961309ff99fa7f90c7c9308/ScreenshotsApplication/TaskOne.png"></img></a>
+  <a href="https://raw.githubusercontent.com/kontr24/OperationsResearchSixthLab/8d28dd0ea274e2621961309ff99fa7f90c7c9308/ScreenshotsApplication/TaskOne.png"><img src="https://github.com/kontr24/OperationsResearchSixthLab/blob/8d28dd0ea274e2621961309ff99fa7f90c7c9308/ScreenshotsApplication/TaskOne.png"></img></a>
 </p>
 <hr/>
 <h2 align="center">Многоканальная СМО с неограниченной очередью</h2>
 <p align="center">
-  <a href="https://raw.githubusercontent.com/kontr24/OperationsResearch/f4a161fc5df3ce8d111ea95feff4d844dbc696b6/ScreenshotsApplication/TaskTwo.png"><img src="https://github.com/kontr24/OperationsResearchSixthLab/blob/8d28dd0ea274e2621961309ff99fa7f90c7c9308/ScreenshotsApplication/TaskTwo.png"></img></a>
+  <a href="https://raw.githubusercontent.com/kontr24/OperationsResearchSixthLab/8d28dd0ea274e2621961309ff99fa7f90c7c9308/ScreenshotsApplication/TaskTwo.png"><img src="https://github.com/kontr24/OperationsResearchSixthLab/blob/8d28dd0ea274e2621961309ff99fa7f90c7c9308/ScreenshotsApplication/TaskTwo.png"></img></a>
 </p>
 <hr/>
 <h2 align="center">Многоканальной СМО с ограниченной очередью</h2>
 <p align="center">
-  <a href="https://raw.githubusercontent.com/kontr24/OperationsResearch/f4a161fc5df3ce8d111ea95feff4d844dbc696b6/ScreenshotsApplication/TaskThree.png"><img src="https://github.com/kontr24/OperationsResearchSixthLab/blob/8d28dd0ea274e2621961309ff99fa7f90c7c9308/ScreenshotsApplication/TaskThree.png"></img></a>
+  <a href="https://raw.githubusercontent.com/kontr24/OperationsResearchSixthLab/8d28dd0ea274e2621961309ff99fa7f90c7c9308/ScreenshotsApplication/TaskThree.png"><img src="https://github.com/kontr24/OperationsResearchSixthLab/blob/8d28dd0ea274e2621961309ff99fa7f90c7c9308/ScreenshotsApplication/TaskThree.png"></img></a>
 </p>
